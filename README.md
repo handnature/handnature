@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JPA-83B81A?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">  
   <img src="https://img.shields.io/badge/-springBoot-green?style=flat-plastic&logo=Spring Boot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </p>
 <h3 align="left">🖥️FrontEnd</h3>  
 <p>
@@ -34,6 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   </p>
   <p>
   <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
